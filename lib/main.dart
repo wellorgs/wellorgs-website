@@ -1,8 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:wellorgs_website/home/ui/home_screen.dart';
 
-import 'package:wellorgs_website/home/ui/test_screen.dart';
-
 void main() {
   runApp(const MyApp());
 }
